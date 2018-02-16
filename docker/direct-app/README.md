@@ -37,7 +37,7 @@ or run the direct app from pre-built image:
 docker-compose up tc-direct
 ```
 
-## Verificaition
+## Verification
 Then add the following entry into hosts file:
 ```
 <docker-box-ip> cockpit.cloud.topcoder.com
